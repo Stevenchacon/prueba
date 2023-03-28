@@ -9,5 +9,4 @@ __Objetivo aprender__
 
 ![tierra](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/280px-As08-16-2593.jpg)
 
-<img src="https://es.wikipedia.org/wiki/Archivo:Volc%C3%A1n_Chimborazo,_%22El_Taita_Chimborazo%22.jpg" width="200">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/678px-As08-16-2593.jpg?20120418171958" width="300">
+<img src="<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/678px-As08-16-2593.jpg?20120418171958" width="300">"
