@@ -6,5 +6,5 @@ __Objetivo aprender
 1. [Markdown](https://www.markdowntutorial.com/)
 2. usar comandos
 3. poner fotos
-[tierra](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/280px-As08-16-2593.jpg)
+![tierra](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/280px-As08-16-2593.jpg)
 
